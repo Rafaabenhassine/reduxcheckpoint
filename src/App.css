@@ -3,7 +3,8 @@
 }
 
 body {
-  background: #e0e5ec;
+  /* background: #e0e5ec; */
+  background: linear-gradient(#141e30, #243b55);
 }
 
 p {
@@ -17,3 +18,5 @@ p {
 button {
   margin: 20px;
 }
+
+
